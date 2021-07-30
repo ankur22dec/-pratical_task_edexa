@@ -1,7 +1,7 @@
 {
-  "name": "contact-book",
+  "name": "Auth With Crud Testing",
   "version": "1.0.0",
-  "description": "Manage your contacts from here",
+  "description": "Manage your task from here",
   "main": "server.js",
   "type": "module",
   "scripts": {
@@ -10,7 +10,7 @@
     "client": "npm start --prefix frontend",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
-  "author": "The Heart Code",
+  "author": "ankur_edexa",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
