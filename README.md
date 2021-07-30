@@ -2,7 +2,7 @@
 ### `npm install`
 
 ## Install dependencies for client
-### cd client ---> `npm install`
+### cd backend ---> `npm install`
 
 ## Run the client & server with concurrently
 ### `npm run dev`
